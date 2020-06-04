@@ -1,0 +1,24 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "\"# Natours-Css-Propject\"",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinWozniak/Natours-Css-Propject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustinWozniak/Natours-Css-Propject/issues"
+  },
+  "homepage": "https://github.com/JustinWozniak/Natours-Css-Propject#readme",
+  "dependencies": {
+    "live-server": "^1.2.1",
+    "node-sass": "^4.14.1",
+    "nodemon": "^2.0.4"
+  }
+}
